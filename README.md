@@ -10,3 +10,7 @@
 - 在const.py中配置高德应用的key
 - 运行main.py
 - 运行check_integrity.py，检查是否爬取数据是否有缺失并补全，补全后的数据为./output_data/geographic_info.data.full
+
+# 计算景点之间的相似性矩阵
+
+运行cal_sim_matrix.ipynb
